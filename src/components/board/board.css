@@ -1,0 +1,7 @@
+.tictactoe {
+ width: 180px;
+ height: 180px;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+}
